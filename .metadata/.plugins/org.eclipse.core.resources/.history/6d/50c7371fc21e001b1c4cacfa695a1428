@@ -1,0 +1,15 @@
+package Dice;
+
+public class DiceClass {
+	
+	    public String message = "Hello World!";
+
+	    public static void method1() {
+	        System.out.println(message);
+	    }
+
+	    public static void main(String[] args) {
+	        method1();
+	    }
+
+	}

@@ -1,0 +1,13 @@
+package Package;
+
+public class NewClass {
+
+	public printMessage(String message) {
+		String message = "Hello World!";
+		System.out.println(message);
+	}
+	
+	public static void main (String [] args) {
+		printMessage();
+	}
+}
